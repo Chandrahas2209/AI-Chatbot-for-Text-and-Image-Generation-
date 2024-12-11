@@ -1,0 +1,2 @@
+HF_API_TOKEN = "<your_hugging_face_api_token>"
+CLIPDROP_API_KEY = "<your_clipdrop_api_key>"
