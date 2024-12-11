@@ -1,1 +1,4 @@
-pip install -r requirements.txt
+pip install streamlit==1.10.0
+pip install huggingface_hub==0.15.1
+pip install requests==2.28.1
+pip install Pillow==8.4.0
