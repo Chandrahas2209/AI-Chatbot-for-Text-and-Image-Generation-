@@ -11,7 +11,7 @@ This is an AI-powered chatbot that can generate text responses and images based 
 
 To run this project locally, you need Python 3.x and the following dependencies:
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/Chandrahas2209/AI-Chatbot-for-Text-and-Image-Generation-.git
    cd AI-Chatbot-for-Text-and-Image-Generation-
