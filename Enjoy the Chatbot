@@ -1,0 +1,7 @@
+
+### What's improved in the setup instructions?
+
+1. **Step-by-Step Clarity**: More detailed steps, including verifying Python versions, setting up a virtual environment, and installing dependencies.
+2. **API Key Setup**: More explicit instructions on how to obtain and configure API keys for Hugging Face and Clipdrop.
+3. **Troubleshooting**: Included common issues with solutions (e.g., module not found, API key issues, and port conflicts).
+4. **Custom Configuration**: Suggestions for customizing the environment and deploying with Docker if desired.
