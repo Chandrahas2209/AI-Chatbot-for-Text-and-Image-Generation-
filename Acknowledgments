@@ -1,0 +1,4 @@
+Hugging Face for the text generation model.
+Clipdrop API for text-to-image generation.
+Streamlit for building the user interface.
+PIL for image handling.
