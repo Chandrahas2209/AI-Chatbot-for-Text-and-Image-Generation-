@@ -1,6 +1,4 @@
-Hugging Face: Create an account and generate an API token. Add it to the script.
-Clipdrop: Sign up for an API key and add it to the script.
-In the echo_chatbot.py script, replace the following placeholders with your respective API keys:
+
 HF_API_TOKEN = "<your_hugging_face_api_token>"
 CLIPDROP_API_KEY = "<your_clipdrop_api_key>"
 
