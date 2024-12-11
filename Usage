@@ -1,1 +1,6 @@
-streamlit run echo_chatbot.py
+1. After setting up, run the application with Streamlit:
+
+    streamlit run echo_chatbot.py
+2. Open your browser and go to the URL provided by Streamlit.
+
+3. Start chatting with the bot by typing your messages in the input box. If you mention "image", the bot will attempt to generate an image based on your prompt.
